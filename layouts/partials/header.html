@@ -1,0 +1,19 @@
+<header>
+  <div class="container">
+    <div class="header-group">
+      <div style="text-align: center; padding-top: 0.5cm;">
+        <a class="header-logo-link" href="{{ .Site.BaseURL | absLangURL }}">
+          {{ if .Site.Params.siteLogo }}
+            <img src="{{ .Site.Params.siteLogo | absURL }}" alt="{{ .Site.Title }} logo">
+          {{ end }}
+        </a>
+      </div>
+
+      <!--div class="header-title">
+        <a href="{{ .Site.BaseURL | absLangURL }}">
+          {{ .Site.Title }}
+        </a>
+      </div -->
+    </div>
+  </div>
+</header>

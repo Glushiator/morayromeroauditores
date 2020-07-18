@@ -1,0 +1,56 @@
+baseURL: https://www.morayromeroauditores.cl
+languageCode: es
+title: "Mora y Romero Auditores"
+theme: colordrop
+
+author:
+  name: Author Name
+  job: Developer
+  image: profile.png
+  github: github
+  twitter: twitter
+  linkedin: linkedin
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+    - identifier: mision-vision-valores
+      name: Misión, Visión y Valores
+      url: mision/
+      weight: 1
+    - identifier: servicios
+      name: Servicios
+      url: servicios/
+      weight: 2
+    - identifier: socios
+      name: Socios
+      url: socios/
+      weight: 3
+  footer:
+    - identifier: email
+      name: email
+      url: "mailto:contacto@morayromeroauditores.cl"
+      weight: 1
+
+params:
+  description:
+    Somos una empresa de profesionales, calificados
+    y en permanente actualización, fundada en el año 1992.
+    Nuestro compromiso es proporcionar un servicio de asesoría integral,
+    con una visión de trabajo multidisciplinario,
+    otorgando soluciones oportunas a las necesidades más exigentes,
+    tanto para las organizaciones privadas como públicas.
+  siteLogo: /img/logo.png
+  themeColor: "#050520"
+  themeInverseColor: "#ffffef"
+
+defaultContentLanguage: es 
+
+copyright: Mora y Romero Auditores © 2020
+
+languages:
+  es:
+    languageName: Español
+    weight: 1

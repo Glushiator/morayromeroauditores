@@ -1,3 +1,7 @@
-[submodule "themes/hugo-theme-codex"]
-	path = themes/hugo-theme-codex
-	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "themes/colordrop"]
+	path = themes/colordrop
+	url = https://github.com/humrochagf/colordrop
+
+[submodule "public"]
+	path = public
+	url = git@github.com:Glushiator/www.morayromeroauditores.cl.git
