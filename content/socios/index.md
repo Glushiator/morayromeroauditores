@@ -4,11 +4,11 @@ date: 2020-07-16T21:23:01Z
 draft: true
 ---
 
-## _ Juan Mora Romero
+### _ Juan Mora Romero
 
 ![Juan Mora Romero - retrato](/img/jmora.jpg)
 
-### _Socio Área de Auditoría - Gestión - Laboral_
+#### _Socio Área de Auditoría - Gestión - Laboral_
 
 Es Contador Auditor, Ingeniero en Información y Control de Gestión y
 Magister en Control de Gestión (Universidad de Chile). Con Diplomas
@@ -33,15 +33,15 @@ En el terreno público se ha desempeñado como:
 * Suddirector Administrativo del Hospital de la Dipreca.
 * Auditor Interno y Jefe de Finanzas de la Mutualidad de Carabineros.
 
-#### [_jmora@morayromeroauditores.cl_](mailto:jmora@morayromeroauditores.cl)
+##### [_jmora@morayromeroauditores.cl_](mailto:jmora@morayromeroauditores.cl)
 
-#### [_+56-961-705-957_](tel:+56961705957)
+##### [_+56-961-705-957_](tel:+56961705957)
 
-## _ Rodolfo Romero Romero
+### _ Rodolfo Romero Romero
 
 ![Rodolfo Romero Romero - retrato](/img/rromero.jpg)
 
-### _Socio Área de Auditoria - Tributaria - Laboral_
+#### _Socio Área de Auditoria - Tributaria - Laboral_
 
 Es Contador Auditor de la Pontificia Universidad Católica de Chile; Ingeniero
 Comercial mención Control de Gestión de la Universidad de Concepción; MBA en
@@ -62,6 +62,6 @@ en las empresas y cargos en las cuales se ha desempeñado:
 
 También posee experiencia en presentaciones y reclamaciones ante el SII.
 
-#### [_rromero@morayromeroauditores.cl_](mailto:rromero@morayromeroauditores.cl)
+##### [_rromero@morayromeroauditores.cl_](mailto:rromero@morayromeroauditores.cl)
 
-#### [_+56-988-279-466_](tel:+56988279466)
+##### [_+56-988-279-466_](tel:+56988279466)
