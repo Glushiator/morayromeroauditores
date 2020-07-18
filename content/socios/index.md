@@ -10,19 +10,28 @@ draft: true
 
 ### _Socio Área de Auditoría - Gestión - Laboral_
 
-Es Contador Auditor, titulado en la Universidad de Chile; Ingeniero en
-Información y Control de Gestión y Magister en Control de Gestión, ambas
-de la Universidad de Chile.  
+Es Contador Auditor, Ingeniero en Información y Control de Gestión y
+Magister en Control de Gestión (Universidad de Chile). Con Diplomas
+en diversas materias de gestión como: Gestión de Retail Operativos
+(U. de Chile, Fac. Matemáticas), Control de Gestión Gerencial (U. de Chile FEN),
+Gestión Estratégica de Negocios (U.A.Ibáñez), Gestión de Operaciones (U.A.Ibáñez).
 
 Su experiencia profesional, la ha logrado desarrollándose en el campo de
-la auditoría interna y externa, habiendo logrado experiencia como ejecutivo
-de las empresas de retail, Lider, Walmart y SMU, siempre en el área de Control,
-Gestión y Operaciones y en lo externo asesorías a pequeñas y medianas empresas
-privadas. 
+la auditoría interna y externa, habiéndolo logrado como ejecutivo de las
+empresas de retail, y en lo externo asesorías a pequeñas y medianas empresas
+privadas:
 
-También ha ocupado cargos en el sector público, como Subdirector Administrativo
-del Hospital de la Dipreca y como Auditor Interno y Jefe de Finanzas de la
-Mutualidad de Carabineros.
+* Contralor de Cajas y de Inventarios de Perecederos en Líder.
+* Control de Gestión de Mercado en Líder.
+* Gerente de tienda en Líder de Los Andes.
+* Subgerente de Prevención de Pérdidas e Inventarios en SMU.
+* Gerente de Prevención de Pérdidas e Inventarios del formato Mayoristas de SMU.
+* Asesor externo a variadas Pymes.
+
+En el terreno público se ha desempeñado como:
+
+* Suddirector Administrativo del Hospital de la Dipreca.
+* Auditor Interno y Jefe de Finanzas de la Mutualidad de Carabineros.
 
 #### [_jmora@morayromeroauditores.cl_](mailto:jmora@morayromeroauditores.cl)
 
