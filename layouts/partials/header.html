@@ -4,7 +4,7 @@
       <div style="text-align: center; padding-top: 0.5cm;">
         <a class="header-logo-link" href="{{ .Site.BaseURL | absLangURL }}">
           {{ if .Site.Params.siteLogo }}
-            <img src="{{ .Site.Params.siteLogo | absURL }}" alt="{{ .Site.Title }} logo">
+            <img style="object-fit: scale-down; max-width: 100%" src="{{ .Site.Params.siteLogo | absURL }}" alt="{{ .Site.Title }} logo">
           {{ end }}
         </a>
       </div>

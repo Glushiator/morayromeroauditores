@@ -33,9 +33,9 @@ En el terreno público se ha desempeñado como:
 * Suddirector Administrativo del Hospital de la Dipreca.
 * Auditor Interno y Jefe de Finanzas de la Mutualidad de Carabineros.
 
-##### [_jmora@morayromeroauditores.cl_](mailto:jmora@morayromeroauditores.cl)
+[**jmora@morayromeroauditores.cl**](mailto:jmora@morayromeroauditores.cl)
 
-##### [_+56-961-705-957_](tel:+56961705957)
+[**+56-961-705-957**](tel:+56961705957)
 
 ### _ Rodolfo Romero Romero
 
@@ -62,6 +62,6 @@ en las empresas y cargos en las cuales se ha desempeñado:
 
 También posee experiencia en presentaciones y reclamaciones ante el SII.
 
-##### [_rromero@morayromeroauditores.cl_](mailto:rromero@morayromeroauditores.cl)
+[**rromero@morayromeroauditores.cl**](mailto:rromero@morayromeroauditores.cl)
 
-##### [_+56-988-279-466_](tel:+56988279466)
+[**+56-988-279-466**](tel:+56988279466)
