@@ -1,0 +1,31 @@
+<nav>
+  <div class="container">
+    <style type="text/css">
+      @media (min-width: 600px) {
+        .menu-item {
+          display: inline-block;
+        }
+      }
+
+      @media only screen and (max-width: 599px) {
+        .menu-item {
+          display: block;
+        }
+      }
+
+      .main-navigation > .menu-item > a:hoover {
+        border-bottom: 2px solid #000000;
+      }
+
+      .main-navigation > .menu-item > a.active {
+        border-bottom: 2px solid #000000;
+      }
+    </style>
+    <div class="main-navigation">
+      {{ $currentPage := . }}
+      {{ range .Site.Menus.main }}<div class="menu-item"><a
+        href="{{ .URL | relLangURL }}" {{ if $currentPage.IsMenuCurrent "main" . }}
+        class="active"{{ end }}>{{ .Name }}</a></div>&#8203;{{ end }}
+    </div>
+  </div>
+</nav>
