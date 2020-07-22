@@ -10,16 +10,16 @@ draft: true
 
 #### _Socio Área de Auditoría - Gestión - Laboral_
 
-Es Contador Auditor, Ingeniero en Información y Control de Gestión y
-Magister en Control de Gestión (Universidad de Chile). Con Diplomas
-en diversas materias de gestión como: Gestión de Retail Operativos
-(U. de Chile, Fac. Matemáticas), Control de Gestión Gerencial (U. de Chile FEN),
-Gestión Estratégica de Negocios (U.A.Ibáñez), Gestión de Operaciones (U.A.Ibáñez).
+Es Contador Auditor, Ingeniero en Información y Control de Gestión y Magister
+en Control de Gestión (Universidad de Chile).  Con Diplomas en diversas materias
+de gestión como: Gestión de Retail Operativos (U. de Chile, Fac. Matemáticas),
+Control de Gestión Gerencial (U. de Chile FEN), Gestión Estratégica de Negocios
+(U.A.Ibáñez), Gestión de Operaciones (U.A.Ibáñez), Administración de
+Organizaciones de Salud, Públicas y Privadas (U.A.Ibáñez – U. Los Andes)
 
-Su experiencia profesional, la ha logrado desarrollándose en el campo de
-la auditoría interna y externa, habiéndolo logrado como ejecutivo de las
-empresas de retail, y en lo externo asesorías a pequeñas y medianas empresas
-privadas:
+Su experiencia profesional, la ha logrado desarrollándose en el campo de la
+auditoría interna y externa, habiéndolo logrado como ejecutivo de las empresas
+de retail, y en lo externo asesorías a pequeñas y medianas empresas privadas:
 
 * Contralor de Cajas y de Inventarios de Perecederos en Líder.
 * Control de Gestión de Mercado en Líder.
