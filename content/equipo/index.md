@@ -12,7 +12,7 @@ draft: true
 
 [**+56-961-705-957**](tel:+56961705957)
 
-[**WhatsApp**](https://web.whatsapp.com/send?phone=56961705957)
+[**WhatsApp**](https://wa.me/56961705957)
 
 #### _Área de Auditoría - Gestión - Laboral_
 
@@ -47,7 +47,7 @@ En el terreno público se ha desempeñado como:
 
 [**+56-988-279-466**](tel:+56988279466)
 
-[**WhatsApp**](https://web.whatsapp.com/send?phone=56988279466)
+[**WhatsApp**](https://wa.me/56988279466)
 
 #### _Área de Auditoria - Tributaria - Laboral_
 
@@ -78,7 +78,7 @@ También posee experiencia en presentaciones y reclamaciones ante el SII.
 
 [**+56-985-057-751**](tel:+56985057751)
 
-[**WhatsApp**](https://web.whatsapp.com/send?phone=56985057751)
+[**WhatsApp**](https://wa.me/56985057751)
 
 #### _Analista Contable_
 

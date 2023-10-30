@@ -28,6 +28,10 @@ menu:
       name: Equipo
       url: equipo/
       weight: 3
+    - identifier: contacto
+      name: Contacto
+      url: contacto/
+      weight: 4
   footer:
     - identifier: email
       name: email
