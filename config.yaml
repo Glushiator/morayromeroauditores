@@ -24,9 +24,9 @@ menu:
       name: Servicios
       url: servicios/
       weight: 2
-    - identifier: socios
-      name: Socios
-      url: socios/
+    - identifier: equipo
+      name: Equipo
+      url: equipo/
       weight: 3
   footer:
     - identifier: email
